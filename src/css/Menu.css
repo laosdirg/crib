@@ -1,0 +1,50 @@
+div.Crib-menu
+ul {
+  width: 100%;
+  background-color: #222;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+div.Crib-menu
+a
+img
+{
+  float: left;
+  height: 55px;
+  margin-top: 7px;
+  margin-left: 15px;
+}
+
+div.Crib-menu
+li {
+  border-left: 1px solid #bbb;
+  margin-top: 7px;
+  float: right;
+}
+
+div.Crib-menu
+li
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+div.Crib-menu
+li
+a:hover {
+  background-color: #111;
+}
+
+div.Crib-menu
+.active {
+    background-color: #4CAF50;
+    color: white;
+    outline: none;
+}
